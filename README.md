@@ -1,4 +1,4 @@
-# Technical Writing & Learning Documentation
+# Technical Writing
 
 A curated collection of technical guides, tutorials, learning documentation, and the occasional hot take from my journey from systems/computational neuroscience to data science and ML/AI engineering. Topics span Python fundamentals, ML/DS concepts, developer tooling, and systems programming—with a few indulgences for my Terminal obsessions.
 
