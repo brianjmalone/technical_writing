@@ -1,6 +1,6 @@
 # Technical Writing
 
-A curated collection of technical guides, tutorials, learning documentation, and the occasional hot take from my journey from systems/computational neuroscience to data science and ML/AI engineering. Topics span Python fundamentals, ML/DS concepts, developer tooling, and systems programming—with a few indulgences for my Terminal obsessions.
+A curated collection of technical guides, tutorials, learning documentation, and the occasional hot take on systems/computational neuroscience, data science and ML/AI engineering. Topics span Python fundamentals, ML/DS concepts, developer tooling, and systems programming—with a few indulgences for my Terminal obsessions.
 
 **📍 View the full, actively-maintained index:** [GistHub](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77)
 
